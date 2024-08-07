@@ -8,11 +8,11 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.java-test</groupId>
+    <groupId>com.minikube-sample</groupId>
     <artifactId>kubernetes-configmap-reload</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>java-test</name>
+    <name>minikube-sample</name>
     <description>Demo project for Spring Cloud Kubernetes</description>
 
     <properties>
